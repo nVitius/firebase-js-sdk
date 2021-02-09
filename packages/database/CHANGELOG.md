@@ -1,5 +1,14 @@
 # Unreleased
 
+## 0.9.3
+
+### Patch Changes
+
+- [`05614aa86`](https://github.com/firebase/firebase-js-sdk/commit/05614aa86614994b69df154bd6ce34861fae37a5) [#4427](https://github.com/firebase/firebase-js-sdk/pull/4427) - Add `startAfter()` and `endBefore()` to the Realtime Database TypeScript definitions.
+
+- Updated dependencies [[`05614aa86`](https://github.com/firebase/firebase-js-sdk/commit/05614aa86614994b69df154bd6ce34861fae37a5)]:
+  - @firebase/database-types@0.7.0
+
 ## 0.9.2
 
 ### Patch Changes
